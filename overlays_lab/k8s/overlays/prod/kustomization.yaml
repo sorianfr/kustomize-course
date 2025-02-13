@@ -1,8 +1,7 @@
-bases:
-  - ../../base
-
 resources:
+  - ../../base
   - redis-depl.yaml
 
 patches:
-  - api-patch.yaml
+  - path: api-patch.yaml
+

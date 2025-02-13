@@ -1,3 +1,7 @@
+```
+git clone https://github.com/sorianfr/kustomize-course.git
+```
+
 Download the Kustomize binary:
 ```
 curl -LO https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.5.0/kustomize_v5.5.0_linux_amd64.tar.gz

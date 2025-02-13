@@ -4,4 +4,4 @@ metadata:
   name: db-creds
 data:
   username: mongo
-  password: mypassword
+  password: superp@ssword123
