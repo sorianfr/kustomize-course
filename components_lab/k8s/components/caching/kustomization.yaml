@@ -6,4 +6,4 @@ resources:
   - redis-service.yaml
 
 patches:
-  - api-patch.yaml
+  - path: api-patch.yaml

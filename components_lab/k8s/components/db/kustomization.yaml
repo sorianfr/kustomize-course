@@ -11,4 +11,4 @@ secretGenerator:
       - password=password1
 
 patches:
-  - api-patch.yaml
+  - path: api-patch.yaml
